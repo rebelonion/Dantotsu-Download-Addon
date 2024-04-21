@@ -11,7 +11,7 @@
 
     <uses-sdk tools:overrideLibrary="go.server.gojni" />
     <application
-        android:label="Dantotsu Download Addon"
+        android:label="Dantotsu: Download Addon"
         tools:targetApi="R" >
     </application>
 
